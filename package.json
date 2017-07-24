@@ -1,0 +1,22 @@
+{
+  "name": "kindle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lintonmack/kindle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lintonmack/kindle/issues"
+  },
+  "homepage": "https://github.com/lintonmack/kindle#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
